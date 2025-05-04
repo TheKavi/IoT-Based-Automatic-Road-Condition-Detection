@@ -41,12 +41,12 @@ To develop a smart, cost-effective, and scalable IoT-based system for real-time 
 
 > Include screenshots of:
 >  - Image upload page
->  - 
+>    
 > ![image](https://github.com/user-attachments/assets/5f3a802c-71c8-4e09-8948-97479884a370)
 
 
 >- Live Camera Feed and Capture Interface
->- 
+> 
 > ![image](https://github.com/user-attachments/assets/51ddd900-2b18-44b6-8658-76ac5a3f30b4)
 
 
