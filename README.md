@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/586e0909-1257-4fa1-8f53-105cfc10c404)# IoT-Based Automatic Road Condition Detection
+# IoT-Based Automatic Road Condition Detection
 
 This project is designed to automatically monitor and detect road anomalies such as **cracks**, **potholes**, and **surface damages** using an **ESP32 camera**, **GSM module**, and **image processing techniques**.
 
